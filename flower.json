@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Rose",
+    "scientific_name": "Rosa",
+    "colors": ["Red", "Pink", "White", "Yellow"],
+    "season": "Spring, Summer",
+    "meaning": "Love, romance, and beauty",
+    "qty": 1
+  },
+  {
+    "id": 2,
+    "name": "Tulip",
+    "scientific_name": "Tulipa",
+    "colors": ["Yellow", "Red", "Purple", "White"],
+    "season": "Spring",
+    "meaning": "Deep love and rebirth",
+    "qty": 1
+  },
+  {
+    "id": 3,
+    "name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "colors": ["Yellow", "Orange"],
+    "season": "Summer",
+    "meaning": "Adoration, loyalty, and longevity",
+    "qty": 1
+  },
+  {
+    "id": 4,
+    "name": "Orchid",
+    "scientific_name": "Orchidaceae",
+    "colors": ["Purple", "White", "Pink"],
+    "season": "Year-round",
+    "meaning": "Luxury, beauty, and strength",
+    "qty": 1
+  },
+  {
+    "id": 5,
+    "name": "Lily",
+    "scientific_name": "Lilium",
+    "colors": ["White", "Pink", "Orange", "Yellow"],
+    "season": "Summer",
+    "meaning": "Purity, passion, and rebirth",
+    "qty": 1
+  },
+  {
+    "id": 6,
+    "name": "Daisy",
+    "scientific_name": "Bellis perennis",
+    "colors": ["White", "Yellow"],
+    "season": "Spring, Summer",
+    "meaning": "Innocence and loyal love",
+    "qty": 1
+  },
+  {
+    "id": 7,
+    "name": "Lavender",
+    "scientific_name": "Lavandula",
+    "colors": ["Purple", "Blue"],
+    "season": "Summer",
+    "meaning": "Serenity, grace, and calmness",
+    "qty": 1
+  },
+  {
+    "id": 8,
+    "name": "Hydrangea",
+    "scientific_name": "Hydrangea macrophylla",
+    "colors": ["Blue", "Pink", "Purple", "White"],
+    "season": "Summer, Autumn",
+    "meaning": "Heartfelt emotions and gratitude",
+    "qty": 1
+  },
+  {
+    "id": 9,
+    "name": "Peony",
+    "scientific_name": "Paeonia",
+    "colors": ["Pink", "White", "Red"],
+    "season": "Late Spring",
+    "meaning": "Good fortune, honor, and a happy marriage",
+    "qty": 1
+  },
+  {
+    "id": 10,
+    "name": "Marigold",
+    "scientific_name": "Tagetes",
+    "colors": ["Orange", "Yellow"],
+    "season": "Summer, Autumn",
+    "meaning": "Desire for wealth and creativity",
+    "qty": 1
+  },
+  {
+    "id": 11,
+    "name": "Carnation",
+    "scientific_name": "Dianthus caryophyllus",
+    "colors": ["Pink", "Red", "White", "Purple"],
+    "season": "Year-round",
+    "meaning": "Fascination, distinction, and love",
+    "qty": 1
+  },
+  {
+    "id": 12,
+    "name": "Lotus",
+    "scientific_name": "Nelumbo nucifera",
+    "colors": ["Pink", "White"],
+    "season": "Summer",
+    "meaning": "Purity, enlightenment, and self-regeneration",
+    "qty": 1
+  },
+  {
+    "id": 13,
+    "name": "Dahlia",
+    "scientific_name": "Dahlia pinnata",
+    "colors": ["Red", "Purple", "Pink", "Yellow"],
+    "season": "Summer, Autumn",
+    "meaning": "Dignity, elegance, and inner strength",
+    "qty": 1
+  },
+  {
+    "id": 14,
+    "name": "Chrysanthemum",
+    "scientific_name": "Chrysanthemum morifolium",
+    "colors": ["Yellow", "White", "Red", "Purple"],
+    "season": "Autumn",
+    "meaning": "Friendship, happiness, and well-being",
+    "qty": 1
+  },
+  {
+    "id": 15,
+    "name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "colors": ["Red", "Pink", "Yellow", "White"],
+    "season": "Summer",
+    "meaning": "Delicate beauty and glory",
+    "qty": 1
+  },
+  {
+    "id": 16,
+    "name": "Iris",
+    "scientific_name": "Iris germanica",
+    "colors": ["Blue", "Purple", "Yellow", "White"],
+    "season": "Spring",
+    "meaning": "Wisdom, hope, and trust",
+    "qty": 1
+  },
+  {
+    "id": 17,
+    "name": "Cherry Blossom",
+    "scientific_name": "Prunus serrulata",
+    "colors": ["Pink", "White"],
+    "season": "Spring",
+    "meaning": "Spiritual beauty and the fleeting nature of life",
+    "qty": 1
+  },
+  {
+    "id": 18,
+    "name": "Daffodil",
+    "scientific_name": "Narcissus",
+    "colors": ["Yellow", "White"],
+    "season": "Late Winter, Spring",
+    "meaning": "New beginnings and unrequited love",
+    "qty": 1
+  },
+  {
+    "id": 19,
+    "name": "Jasmine",
+    "scientific_name": "Jasminum",
+    "colors": ["White", "Yellow"],
+    "season": "Summer",
+    "meaning": "Unconditional love, good luck, and appreciation",
+    "qty": 1
+  },
+  {
+    "id": 20,
+    "name": "Poppy",
+    "scientific_name": "Papaver rhoeas",
+    "colors": ["Red", "Orange", "Yellow"],
+    "season": "Spring, Summer",
+    "meaning": "Remembrance and consolation",
+    "qty": 1
+  }
+]
