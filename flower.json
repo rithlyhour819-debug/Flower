@@ -6,7 +6,8 @@
     "colors": ["Red", "Pink", "White", "Yellow"],
     "season": "Spring, Summer",
     "meaning": "Love, romance, and beauty",
-    "qty": 1
+    "qty": 1,
+    "price": 2.50
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "colors": ["Yellow", "Red", "Purple", "White"],
     "season": "Spring",
     "meaning": "Deep love and rebirth",
-    "qty": 1
+    "qty": 1,
+    "price": 2.00
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "colors": ["Yellow", "Orange"],
     "season": "Summer",
     "meaning": "Adoration, loyalty, and longevity",
-    "qty": 1
+    "qty": 1,
+    "price": 3.00
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "colors": ["Purple", "White", "Pink"],
     "season": "Year-round",
     "meaning": "Luxury, beauty, and strength",
-    "qty": 1
+    "qty": 1,
+    "price": 4.50
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "colors": ["White", "Pink", "Orange", "Yellow"],
     "season": "Summer",
     "meaning": "Purity, passion, and rebirth",
-    "qty": 1
+    "qty": 1,
+    "price": 3.50
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "colors": ["White", "Yellow"],
     "season": "Spring, Summer",
     "meaning": "Innocence and loyal love",
-    "qty": 1
+    "qty": 1,
+    "price": 1.50
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "colors": ["Purple", "Blue"],
     "season": "Summer",
     "meaning": "Serenity, grace, and calmness",
-    "qty": 1
+    "qty": 1,
+    "price": 1.25
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "colors": ["Blue", "Pink", "Purple", "White"],
     "season": "Summer, Autumn",
     "meaning": "Heartfelt emotions and gratitude",
-    "qty": 1
+    "qty": 1,
+    "price": 5.00
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "colors": ["Pink", "White", "Red"],
     "season": "Late Spring",
     "meaning": "Good fortune, honor, and a happy marriage",
-    "qty": 1
+    "qty": 1,
+    "price": 7.50
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "colors": ["Orange", "Yellow"],
     "season": "Summer, Autumn",
     "meaning": "Desire for wealth and creativity",
-    "qty": 1
+    "qty": 1,
+    "price": 1.00
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "colors": ["Pink", "Red", "White", "Purple"],
     "season": "Year-round",
     "meaning": "Fascination, distinction, and love",
-    "qty": 1
+    "qty": 1,
+    "price": 1.75
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "colors": ["Pink", "White"],
     "season": "Summer",
     "meaning": "Purity, enlightenment, and self-regeneration",
-    "qty": 1
+    "qty": 1,
+    "price": 6.00
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "colors": ["Red", "Purple", "Pink", "Yellow"],
     "season": "Summer, Autumn",
     "meaning": "Dignity, elegance, and inner strength",
-    "qty": 1
+    "qty": 1,
+    "price": 4.00
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "colors": ["Yellow", "White", "Red", "Purple"],
     "season": "Autumn",
     "meaning": "Friendship, happiness, and well-being",
-    "qty": 1
+    "qty": 1,
+    "price": 2.25
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "colors": ["Red", "Pink", "Yellow", "White"],
     "season": "Summer",
     "meaning": "Delicate beauty and glory",
-    "qty": 1
+    "qty": 1,
+    "price": 3.00
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "colors": ["Blue", "Purple", "Yellow", "White"],
     "season": "Spring",
     "meaning": "Wisdom, hope, and trust",
-    "qty": 1
+    "qty": 1,
+    "price": 2.00
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "colors": ["Pink", "White"],
     "season": "Spring",
     "meaning": "Spiritual beauty and the fleeting nature of life",
-    "qty": 1
+    "qty": 1,
+    "price": 5.50
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "colors": ["Yellow", "White"],
     "season": "Late Winter, Spring",
     "meaning": "New beginnings and unrequited love",
-    "qty": 1
+    "qty": 1,
+    "price": 1.75
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "colors": ["White", "Yellow"],
     "season": "Summer",
     "meaning": "Unconditional love, good luck, and appreciation",
-    "qty": 1
+    "qty": 1,
+    "price": 2.50
   },
   {
     "id": 20,
@@ -177,6 +196,7 @@
     "colors": ["Red", "Orange", "Yellow"],
     "season": "Spring, Summer",
     "meaning": "Remembrance and consolation",
-    "qty": 1
+    "qty": 1,
+    "price": 2.00
   }
 ]
